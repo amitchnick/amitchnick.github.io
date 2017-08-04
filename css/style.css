@@ -1233,7 +1233,7 @@ input.margin-right {
 .footer h3 {
 	color: #009688;
 	font-size: 35px;
-	margin-bottom: 40px;
+	margin-bottom: 10px;
 }
 
 .footer-grids {
@@ -1243,6 +1243,7 @@ input.margin-right {
 .footer h5 {
 	width: 65%;
 	margin: 0 auto;
+    font-size: 18px;
 	/*--w3layouts--*/
 	/*--agileits--*/
 	line-height: 30px;
@@ -1252,12 +1253,24 @@ input.margin-right {
 
 .footer-grid {
 	text-align: left;
+    margin-bottom: 40px
 }
 
+.footer h2 {
+	font-size: 25px;
+	text-align: left;
+    padding-left: 70px;
+	margin-bottom: 20px;
+}
 .footer h4 {
 	font-size: 18px;
 	text-align: left;
-	margin-bottom: 20px;
+    padding-left: 80px;
+	margin-bottom: 10px;
+    color: #FFF 
+}
+.footer h4:hover {
+   color: #009688 
 }
 
 address {
@@ -1414,7 +1427,7 @@ a.to-top {
 	.agileheaderw3ls {
 		padding-bottom: 832px;
 	}
-	.portfolio h3 {
+	.portfolio h3 {x
 		margin-left: 225px;
 	}
 }

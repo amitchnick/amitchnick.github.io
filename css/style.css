@@ -567,6 +567,28 @@ section.cd-section {
 	font-size: 40px;
 }
 
+.w3threespecialityw3ls button.btn {
+    margin-top: 30px;
+    padding: 10px 30px;
+	background-color: #777;
+	color: #FFF;
+	/*--w3layouts--*/
+	/*--agileits--*/
+	border-radius: 30px;
+	font-weight: 600;
+	border: none;
+	outline: none; 
+}
+
+.w3threespecialityw3ls button.btn:hover {
+    background-color: #009688;
+	color: #FFF;
+}
+
+.w3threespecialityw3ls button.btn .glyphicon {
+	margin-left: 5px;
+}
+
 .grid {
 	margin: 0 auto;
 	list-style: none;
